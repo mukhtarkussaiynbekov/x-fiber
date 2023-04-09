@@ -1,0 +1,12 @@
+*.sw[op]
+
+.DS_Store
+
+target
+
+metals.sbt
+.metals
+.bloop
+.bsp
+
+.x-fiber_history
